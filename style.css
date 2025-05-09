@@ -14,3 +14,7 @@ Template: twentytwentyfive
 Text Domain: ardian-pradana
 Tags: 
 */
+
+.repo-name a {
+    text-decoration: none;
+}
