@@ -22,7 +22,152 @@
 		"typography": {
 			"fontFamilies": [
 				{
-					"fontFace": [],
+					"fontFace": [
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-100-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-200-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-300-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-400-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-500-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-600-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-700-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-800-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-900-normal.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-100-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-200-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-300-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-400-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-500-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-600-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-700-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-800-italic.woff2"
+							]
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": [
+								"file:./assets/fonts/poppins/poppins-900-italic.woff2"
+							]
+						}
+					],
 					"fontFamily": "Poppins, sans-serif",
 					"name": "Poppins",
 					"slug": "poppins"
