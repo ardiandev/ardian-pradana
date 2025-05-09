@@ -3,14 +3,19 @@
 		"color": {
 			"palette": [
 				{
+					"color": "#ffffff",
+					"name": "White",
+					"slug": "custom-white"
+				},
+				{
 					"color": "#fafafa",
-					"name": "Background",
-					"slug": "custom-background"
+					"name": "Grey",
+					"slug": "custom-grey"
 				},
 				{
 					"color": "#000",
-					"name": "Text",
-					"slug": "custom-text"
+					"name": "Black",
+					"slug": "custom-black"
 				}
 			]
 		},
