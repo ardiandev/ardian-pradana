@@ -11,3 +11,8 @@ require_once get_stylesheet_directory() . '/includes/tgmpa-settings/tgm-plugin-a
 
 // Register the required plugins
 add_action('tgmpa_register', 'register_required_plugins');
+
+function ardian_pradana_remove_default_patterns() {
+    remove_theme_support( 'core-block-patterns' );
+}
+add_action( 'after_setup_theme', 'ardian_pradana_remove_default_patterns' );
