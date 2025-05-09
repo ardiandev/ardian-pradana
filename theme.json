@@ -1,0 +1,84 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#fafafa",
+					"name": "Background",
+					"slug": "custom-background"
+				},
+				{
+					"color": "#000",
+					"name": "Text",
+					"slug": "custom-text"
+				}
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [],
+					"fontFamily": "Poppins, sans-serif",
+					"name": "Poppins",
+					"slug": "poppins"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/navigation": {
+				"typography": {
+					"fontSize": "0.9rem"
+				}
+			},
+			"core/separator": {
+				"color": {
+					"background": "var(--wp--preset--color--contrast)"
+				}
+			},
+			"core/site-title": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontStyle": "normal",
+					"fontWeight": "700"
+				}
+			}
+		},
+		"elements": {
+			"h2": {
+				"typography": {
+					"fontSize": "1.8rem"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontSize": "1.2rem"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontStyle": "normal",
+					"fontWeight": "400"
+				}
+			}
+		},
+		"spacing": {
+			"blockGap": "0rem",
+			"padding": {
+				"bottom": "0px",
+				"left": "0",
+				"right": "0",
+				"top": "0px"
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--poppins)",
+			"fontSize": "1rem",
+			"fontStyle": "normal",
+			"fontWeight": "300"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.8/theme.json"
+}
