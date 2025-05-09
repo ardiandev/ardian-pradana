@@ -18,3 +18,22 @@ Tags:
 .repo-name a {
     text-decoration: none;
 }
+
+.post-container {
+    transition: all .5s ease-in-out;
+}
+.post-container:hover {
+    background-color: #fafafa;
+}
+
+.wp-block-post-author-name a, .wp-block-post-terms a {
+    text-decoration: none;
+}
+
+.wp-block-post-author-name a:hover, .wp-block-post-terms a:hover {
+    text-decoration: underline;
+}
+
+.wp-block-query-pagination {
+    gap: 10px;
+}
